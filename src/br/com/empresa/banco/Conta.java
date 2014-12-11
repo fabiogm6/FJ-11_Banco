@@ -1,7 +1,6 @@
 package br.com.empresa.banco;
 /**
 * Classe responsável por moldar as Contas do Banco
-*
 * @author Fábio GM
 * @version 1
 * @category xyz
